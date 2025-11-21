@@ -31,5 +31,7 @@
 *.out
 *.app
 
+# POther
 build
-actions-runner
+out
+Linux System Programming and Introduction to Buildroot
